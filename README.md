@@ -23,13 +23,13 @@ I'm open to a chatting, so drop me an email.
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
-> 🏆 113 Contributions in the Year 2022
+> 🏆 117 Contributions in the Year 2022
  > 
 > 📦 267.1 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 38 Public Repositories 
+> 📜 39 Public Repositories 
  > 
 > 🔑 18 Private Repositories  
  > 
@@ -72,7 +72,7 @@ Shell                    3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 15/06/2022 00:52:37 UTC
+ Last Updated on 16/06/2022 00:28:06 UTC
 <!--END_SECTION:waka-->
 
 📈 **My Github stats are:**
