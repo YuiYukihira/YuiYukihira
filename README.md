@@ -8,7 +8,7 @@ Hey! I'm Lucy (they/them), I write mostly whatever's got my interest that month 
 Currently I'm working on:
 
 - [Emphasize](https://github.com/makepress/emphasize): A static-site generator written in rust.
-- [Romanticise](https://github.com/YuiYukihira/romanticise): A weird boori but not image saving service, also in rust.
+- [Romanticise](https://github.com/YuiYukihira/romanticise): A weird booru but not image saving service, also in rust.
 
 I'm open to a chatting, so drop me an email.
 
