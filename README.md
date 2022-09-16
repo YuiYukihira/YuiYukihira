@@ -36,6 +36,30 @@ I'm open to a chatting, so drop me an email.
  > 
 > 🔑 23 Private Repositories  
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    26 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.71% 
+🌆 Daytime    41 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.47% 
+🌃 Evening    97 commits     ███████████░░░░░░░░░░░░░░   43.69% 
+🌙 Night      58 commits     ██████░░░░░░░░░░░░░░░░░░░   26.13%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Europe/London
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+```
+
 **I Mostly Code in Rust** 
 
 ```text
