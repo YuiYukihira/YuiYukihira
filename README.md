@@ -26,7 +26,7 @@ I'm open to a chatting, so drop me an email.
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
-> 🏆 284 Contributions in the Year 2022
+> 🏆 176 Contributions in the Year 2022
  > 
 > 📦 267.2 kB Used in GitHub's Storage 
  > 
@@ -53,10 +53,10 @@ I'm open to a chatting, so drop me an email.
 ⌚︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-Bash                     25 mins             █████████████████████████   100.0%
+Bash                     36 mins             █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-Unknown Project          25 mins             █████████████████████████   100.0%
+Unknown Project          36 mins             █████████████████████████   100.0%
 
 ```
 
