@@ -28,7 +28,7 @@ I'm open to a chatting, so drop me an email.
 
 > 🏆 182 Contributions in the Year 2022
  > 
-> 📦 267.2 kB Used in GitHub's Storage 
+> 📦 267.3 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -53,10 +53,10 @@ I'm open to a chatting, so drop me an email.
 ⌚︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-Nix                      17 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-honker                   17 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
