@@ -53,10 +53,11 @@ I'm open to a chatting, so drop me an email.
 ⌚︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Rust                     52 mins             ████████████████████████░   99.36% 
+TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.64%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+dfdl                     52 mins             █████████████████████████   100.0%
 
 ```
 
