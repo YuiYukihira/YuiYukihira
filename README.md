@@ -52,10 +52,11 @@ I'm open to a chatting, so drop me an email.
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Rust                     2 hrs 31 mins       █████████████████████████   99.70 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+lispy                    2 hrs 31 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Rust** 
