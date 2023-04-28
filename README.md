@@ -52,10 +52,10 @@ I'm open to a chatting, so drop me an email.
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-Python                   11 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-LoRa_taining_colab       11 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Rust** 
