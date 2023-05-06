@@ -24,7 +24,7 @@ I'm open to a chatting, so drop me an email.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png"></code>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-436%20hrs%2014%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-434%20hrs%2029%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -87,7 +87,7 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/YuiYukihira/YuiYukihira/main/assets/bar_graph.png)
 
 
- Last Updated on 05/05/2023 16:56:24 UTC
+ Last Updated on 06/05/2023 00:24:14 UTC
 <!--END_SECTION:waka-->
 
 📈 **My Github stats are:**
