@@ -2,7 +2,6 @@
 
 [📧](mailto:lucy@dragnof.pro) | (<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/discord/discord.png"> Yui Yukihira#9787) | [🔑](https://keyoxide.org/hkp/5b53fb285f862739d1b97a32e87ce5d7e995b976)
 
-
 Hey! I'm Lucy (they/them), I write mostly whatever's got my interest that month (please don't look at my abandoned projects 😢).
 
 Currently I'm working on:
