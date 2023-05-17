@@ -57,12 +57,10 @@ I'm open to a chatting, so drop me an email.
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-sshconfig                2 mins              ████████████████████████░   95.95 % 
-SSH Config               0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
+sshconfig                2 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Unknown Project          2 mins              ████████████████████████░   95.95 % 
-obstatic                 0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
+Unknown Project          2 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Rust** 
@@ -82,7 +80,7 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/YuiYukihira/YuiYukihira/main/assets/bar_graph.png)
 
 
- Last Updated on 16/05/2023 00:26:14 UTC
+ Last Updated on 17/05/2023 00:02:18 UTC
 <!--END_SECTION:waka-->
 
 📈 **My Github stats are:**
