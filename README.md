@@ -25,7 +25,7 @@ I'm open to a chatting, so drop me an email.
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-444%20hrs%2023%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.9%20million%20lines%20of%20code-blue)
 
@@ -57,10 +57,10 @@ I'm open to a chatting, so drop me an email.
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-sshconfig                2 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Unknown Project          2 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Rust** 
@@ -80,7 +80,7 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/YuiYukihira/YuiYukihira/main/assets/bar_graph.png)
 
 
- Last Updated on 19/05/2023 00:27:07 UTC
+ Last Updated on 20/05/2023 00:24:44 UTC
 <!--END_SECTION:waka-->
 
 📈 **My Github stats are:**
