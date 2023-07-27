@@ -57,11 +57,10 @@ I'm open to a chatting, so drop me an email.
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-Rust                     5 mins              █████████████████████████   98.72 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-buildtools               5 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Rust** 
@@ -81,7 +80,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/YuiYukihira/YuiYukihira/main/assets/bar_graph.png)
 
 
- Last Updated on 26/07/2023 00:29:05 UTC
+ Last Updated on 27/07/2023 00:27:35 UTC
 <!--END_SECTION:waka-->
 
 📈 **My Github stats are:**
