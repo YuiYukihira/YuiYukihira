@@ -57,13 +57,10 @@ I'm open to a chatting, so drop me an email.
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-Rust                     13 mins             ███████████████████░░░░░░   74.30 % 
-Nix                      2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.57 % 
-TOML                     2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.91 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Screeps                  18 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Rust** 
@@ -83,7 +80,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/YuiYukihira/YuiYukihira/main/assets/bar_graph.png)
 
 
- Last Updated on 20/08/2023 00:24:55 UTC
+ Last Updated on 21/08/2023 00:24:02 UTC
 <!--END_SECTION:waka-->
 
 📈 **My Github stats are:**
