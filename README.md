@@ -29,7 +29,7 @@ I'm open to a chatting, so drop me an email.
 
 **🐱 My GitHub Data** 
 
-> 📦 267.8 kB Used in GitHub's Storage 
+> 📦 267.9 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -54,7 +54,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/YuiYukihira/YuiYukihira/main/assets/bar_graph.png)
 
 
- Last Updated on 11/04/2024 00:26:43 UTC
+ Last Updated on 12/04/2024 00:26:46 UTC
 <!--END_SECTION:waka-->
 
 📈 **My Github stats are:**
