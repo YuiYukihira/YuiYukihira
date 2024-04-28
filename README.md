@@ -25,7 +25,7 @@ I'm open to a chatting, so drop me an email.
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-444%20hrs%2047%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.9%20million%20lines%20of%20code-blue)
 
@@ -33,7 +33,7 @@ I'm open to a chatting, so drop me an email.
 
 > 📦 268.1 kB Used in GitHub's Storage 
  > 
-> 🏆 244 Contributions in the Year 2024
+> 🏆 246 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -44,10 +44,10 @@ I'm open to a chatting, so drop me an email.
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                96 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.23 % 
-🌆 Daytime                230 commits         ██████░░░░░░░░░░░░░░░░░░░   24.52 % 
-🌃 Evening                349 commits         █████████░░░░░░░░░░░░░░░░   37.21 % 
-🌙 Night                  263 commits         ███████░░░░░░░░░░░░░░░░░░   28.04 % 
+🌞 Morning                135 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+🌆 Daytime                246 commits         ██████░░░░░░░░░░░░░░░░░░░   22.78 % 
+🌃 Evening                374 commits         █████████░░░░░░░░░░░░░░░░   34.63 % 
+🌙 Night                  325 commits         ████████░░░░░░░░░░░░░░░░░   30.09 % 
 ```
 
 
@@ -80,7 +80,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/YuiYukihira/YuiYukihira/main/assets/bar_graph.png)
 
 
- Last Updated on 27/04/2024 00:26:06 UTC
+ Last Updated on 28/04/2024 00:29:49 UTC
 <!--END_SECTION:waka-->
 
 📈 **My Github stats are:**
