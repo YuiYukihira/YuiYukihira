@@ -33,8 +33,6 @@ I'm open to a chatting, so drop me an email.
 
 > 📦 268.9 kB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2025
- > 
 > 💼 Opted to Hire
  > 
 > 📜 58 Public Repositories 
@@ -80,7 +78,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/YuiYukihira/YuiYukihira/main/assets/bar_graph.png)
 
 
- Last Updated on 17/02/2025 00:37:51 UTC
+ Last Updated on 18/02/2025 00:35:08 UTC
 <!--END_SECTION:waka-->
 
 📈 **My Github stats are:**
