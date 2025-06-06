@@ -41,28 +41,6 @@ I'm open to a chatting, so drop me an email.
  > 
 > 🔑 23 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                343 commits         █████░░░░░░░░░░░░░░░░░░░░   18.79 % 
-🌆 Daytime                306 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.77 % 
-🌃 Evening                501 commits         ███████░░░░░░░░░░░░░░░░░░   27.45 % 
-🌙 Night                  675 commits         █████████░░░░░░░░░░░░░░░░   36.99 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/London
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Rust** 
 
 ```text
@@ -80,7 +58,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/YuiYukihira/YuiYukihira/main/assets/bar_graph.png)
 
 
- Last Updated on 02/06/2025 00:43:39 UTC
+ Last Updated on 06/06/2025 00:40:54 UTC
 <!--END_SECTION:waka-->
 
 📈 **My Github stats are:**
