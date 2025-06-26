@@ -31,7 +31,7 @@ I'm open to a chatting, so drop me an email.
 
 **🐱 My GitHub Data** 
 
-> 📦 269.3 kB Used in GitHub's Storage 
+> 📦 269.4 kB Used in GitHub's Storage 
  > 
 > 🏆 8 Contributions in the Year 2025
  > 
@@ -80,7 +80,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/YuiYukihira/YuiYukihira/main/assets/bar_graph.png)
 
 
- Last Updated on 25/06/2025 00:42:48 UTC
+ Last Updated on 26/06/2025 00:42:26 UTC
 <!--END_SECTION:waka-->
 
 📈 **My Github stats are:**
