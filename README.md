@@ -31,7 +31,7 @@ I'm open to a chatting, so drop me an email.
 
 **🐱 My GitHub Data** 
 
-> 📦 269.4 kB Used in GitHub's Storage 
+> 📦 269.6 kB Used in GitHub's Storage 
  > 
 > 🏆 8 Contributions in the Year 2025
  > 
@@ -44,10 +44,10 @@ I'm open to a chatting, so drop me an email.
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                345 commits         █████░░░░░░░░░░░░░░░░░░░░   18.75 % 
-🌆 Daytime                310 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.85 % 
-🌃 Evening                508 commits         ███████░░░░░░░░░░░░░░░░░░   27.61 % 
-🌙 Night                  677 commits         █████████░░░░░░░░░░░░░░░░   36.79 % 
+🌞 Morning                347 commits         █████░░░░░░░░░░░░░░░░░░░░   18.71 % 
+🌆 Daytime                314 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.93 % 
+🌃 Evening                515 commits         ███████░░░░░░░░░░░░░░░░░░   27.76 % 
+🌙 Night                  679 commits         █████████░░░░░░░░░░░░░░░░   36.60 % 
 ```
 
 
@@ -80,7 +80,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/YuiYukihira/YuiYukihira/main/assets/bar_graph.png)
 
 
- Last Updated on 16/07/2025 00:43:57 UTC
+ Last Updated on 18/07/2025 00:43:50 UTC
 <!--END_SECTION:waka-->
 
 📈 **My Github stats are:**
