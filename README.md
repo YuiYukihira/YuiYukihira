@@ -23,6 +23,8 @@ I'm open to a chatting, so drop me an email.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png"></code>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-444%20hrs%2047%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.1%20million%20lines%20of%20code-blue)
@@ -39,6 +41,28 @@ I'm open to a chatting, so drop me an email.
  > 
 > 🔑 23 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                349 commits         █████░░░░░░░░░░░░░░░░░░░░   18.66 % 
+🌆 Daytime                318 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.01 % 
+🌃 Evening                522 commits         ███████░░░░░░░░░░░░░░░░░░   27.91 % 
+🌙 Night                  681 commits         █████████░░░░░░░░░░░░░░░░   36.42 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/London
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Rust** 
 
 ```text
@@ -56,7 +80,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/YuiYukihira/YuiYukihira/main/assets/bar_graph.png)
 
 
- Last Updated on 31/07/2025 00:45:15 UTC
+ Last Updated on 01/08/2025 00:52:46 UTC
 <!--END_SECTION:waka-->
 
 📈 **My Github stats are:**
