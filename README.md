@@ -80,7 +80,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/YuiYukihira/YuiYukihira/main/assets/bar_graph.png)
 
 
- Last Updated on 11/09/2025 00:38:28 UTC
+ Last Updated on 12/09/2025 00:37:32 UTC
 <!--END_SECTION:waka-->
 
 📈 **My Github stats are:**
